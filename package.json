@@ -1,11 +1,17 @@
 {
+<<<<<<< HEAD
   "name": "comp_3104",
+=======
+  "name": "comp3104",
+>>>>>>> 61e23ddb08470ce54a56aa79aab3c0f6925659bf
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npm build"
+
+
   },
   "repository": {
     "type": "git",
