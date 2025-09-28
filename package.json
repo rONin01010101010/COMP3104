@@ -1,0 +1,22 @@
+{
+  "name": "comp_3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rONin01010101010/COMP3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rONin01010101010/COMP3104/issues"
+  },
+  "homepage": "https://github.com/rONin01010101010/COMP3104#readme"
+}
